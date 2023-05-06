@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content
+	id="z_scaco_SinzaLowCost"
+	name="z_scaco_SinzaLowCost"
+	description="Sinza kostet nun nurnoch eine Interface-Einheit"
+	author="Scaco"
+	version="101"
+	date="2023-05-01"
+	save="0"
+	enabled="1">
+</content>

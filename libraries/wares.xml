@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<diff>
+	<!-- SETA easy cost -->
+	<replace sel="//ware[@id='inv_timewarp']/production/primary/ware[@ware='inv_damagedsingularityengine']/@ware">inv_interfaceunit</replace>
+	<remove sel="//ware[@id='inv_timewarp']/production/primary/ware[@ware='inv_fluxcapacitor']" />
+	<remove sel="//ware[@id='inv_timewarp']/production/primary/ware[@ware='inv_programmablefieldarray']" />
+</diff>
